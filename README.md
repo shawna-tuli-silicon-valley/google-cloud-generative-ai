@@ -2,4 +2,4 @@
 
 ![229380999-a60c1eba-d3fb-4c41-95d3-839da5a6cd7d](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai-courses/assets/19508013/b25f8c86-166e-4c81-84ca-5e6eb18a2b72)
 
-• [Google Cloud Generative AI](https://cloud.google.com/blog/topics/training-certifications/new-generative-ai-trainings-from-google-cloud) 
+• [Google Cloud Generative Artificial Intelligence](https://cloud.google.com/blog/topics/training-certifications/new-generative-ai-trainings-from-google-cloud) 
